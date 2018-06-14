@@ -1,0 +1,22 @@
+{
+  "name": "fancy-form",
+  "version": "1.0.0",
+  "description": "Fancy Form UI From Scratch - HTML,CSS3, JS & Sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simbaxo/Fancy-Form.git"
+  },
+  "author": "Andres Mena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simbaxo/Fancy-Form/issues"
+  },
+  "homepage": "https://github.com/Simbaxo/Fancy-Form#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
